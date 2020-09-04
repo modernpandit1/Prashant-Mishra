@@ -20,6 +20,6 @@ I am Prashant Mishra 😃. I am from Coimbatore, India and currently doing my B.
 
 📫 Coding site: Selfcode.in
 
-📫 Technology News: Technewsblog
+📫 Technology News: Technewsblog.in
 
 ⚡ Fun fact: Internet users blink less than usual.
